@@ -52,7 +52,7 @@ and contribute to real-world semiconductor product development.
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/banushree-s-446b65330?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* LinkedIn: https://www.linkedin.com/in/banushree-s-446b65330
 
 
 ---
