@@ -17,7 +17,9 @@
 💻 **Languages**
 - Verilog  
 - SystemVerilog  
-- Python  
+- linux
+- perl
+- tcl 
 
 📚 **Core Concepts**
 - Digital Electronics  
@@ -26,9 +28,7 @@
 
 🧰 **Tools**
 - ModelSim / QuestaSim  
-- Cadence Virtuoso  
-- LTSpice  
-- Quartus / Vivado  
+- synopsys vcs compiler  
 
 ---
 
